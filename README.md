@@ -1,9 +1,16 @@
 # Covid Travel Doc
-
+## About
 A full stack web app developed with React, Node.js, Express.js, PostgreSQL, and Docker. The app allows the user to search for COVID-19 data in US counties, save the data, and create dynamic, downloadable PDFs based on risk of travel to the location. 
-
-### Installation
-Clone the repository. In server and client directories run:
+## Preview
+![](Covidtravelgif.gif)
+## Technologies
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- Docker
+## Installation
+Clone the repository. In the server and client directories run:
 ```
 npm install
 ```
