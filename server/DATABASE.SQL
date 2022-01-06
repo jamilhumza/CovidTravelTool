@@ -1,4 +1,6 @@
-CREATE DATABASE coviddata;
+CREATE ROLE admin WITH LOGIN PASSWORD 'your_admin_password';
+
+CREATE DATABASE databasename;
 
 CREATE TABLE countydata(
   id SERIAL PRIMARY KEY,
