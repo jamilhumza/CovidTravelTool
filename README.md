@@ -5,6 +5,7 @@ A full stack web app developed with React, Node.js, Express.js, PostgreSQL, and 
 ![](Covidtravelgif.gif)
 ## Technologies
 - React
+- Tailwind CSS
 - Node.js
 - Express.js
 - PostgreSQL
